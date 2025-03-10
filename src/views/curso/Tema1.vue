@@ -10,7 +10,7 @@
     .bg-full-width.bg-color-3.mb-5
       .p-4.p-md-5
         .row.justify-content-around.align-items-center
-          .col-lg-4
+          .col-lg-4.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema1/1.svg", data-aos="zoom-in")
           .col-lg-6
@@ -165,7 +165,7 @@
               h5 Planificación estratégica
               p Los estados financieros históricos permiten identificar tendencias y patrones en el desempeño empresarial. <b>Ejemplo:</b> si un producto muestra un crecimiento sostenido en ventas, se puede decidir invertir más en su promoción o expandir la línea de productos.
 
-    .bg-full-width.bg-color-8
+    .bg-full-width.bg-color-8.mb-5
       .px-4.px-md-5.py-4
         .row.align-items-center
           .col-lg-auto
@@ -282,7 +282,7 @@
     p.mb-4 La valuación de inventarios es crucial para reflejar con precisión la situación financiera de una empresa. Existen varios métodos con aplicaciones específicas según el tipo de negocio y los cambios en los costos.
 
 
-    .bg-full-width-2.bg-fondo-1.mb-5
+    .bg-full-width-2.bg-fondo-1
       .p-4.p-md-5
         div.row.justify-content-center.align-items-stretch.mb-5
           div.col-lg-4.mb-4(data-aos="zoom-in-up")
@@ -303,8 +303,8 @@
               h5.text-center Costo Promedio Ponderado
               p.mb-0.text-center Calcula un costo promedio para todas las unidades disponibles durante un período. Es útil en empresas con grandes volúmenes de productos similares.
         
-        h2(data-aos="fade-left") Ejemplo práctico
-        p.mb-5 Una empresa compra y vende productos con los siguientes costos y cantidades:
+    h2(data-aos="fade-left") Ejemplo práctico
+    p.mb-5 Una empresa compra y vende productos con los siguientes costos y cantidades:
 
 
     .row.mb-5.justify-content-center
